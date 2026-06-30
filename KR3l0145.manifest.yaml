@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3l0145/v1
+canonical_location: https://kanripo.org/bkk/KR3l0145/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 泰嶽府君記
+  identifiers:
+    krp: KR3l0145
+  tags:
+    kr-categories: KR3l
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0145.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3l0145_001.yaml, hash: 'sha256:47cd77d45110db6bbd107363ddc9c29408ed8da752c1f2feb8b668df3d20a9e6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3l0145_001.markers.yaml, hash: 'sha256:3de81e0e7f2a1d40552e31b4ff54369d6f1df9ec7a21d3c1c463bc164c7c5900'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3l0145_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 565
+  label: 泰嶽府君記
+  type: section
+  level: 1
+hash: sha256:dce62a0f07ce2eff361ef3b7eba0df81afe9358f9719eb59867603498e11559d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
