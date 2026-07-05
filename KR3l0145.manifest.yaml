@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0145_001.yaml, hash: 'sha256:47cd77d45110db6bbd107363ddc9c29408ed8da752c1f2feb8b668df3d20a9e6'}
+  - {seq: 1, filename: KR3l0145_001.yaml, hash: 'sha256:f23db52f4f643e10bf9da617df4e47fdba5577286d1ca55a062614ad1ff5e866'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0145_001.markers.yaml, hash: 'sha256:3de81e0e7f2a1d40552e31b4ff54369d6f1df9ec7a21d3c1c463bc164c7c5900'}
+  - {seq: 1, role: markers, filename: assets/KR3l0145_001.markers.yaml, hash: 'sha256:8c17074e5c6d492e3e7f05758f3978731274a1a8588099002e664fa99085fc8f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 泰嶽府君記
   type: section
   level: 1
-hash: sha256:dce62a0f07ce2eff361ef3b7eba0df81afe9358f9719eb59867603498e11559d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ac075e9060b546c7a376addcf2bc7370c6e89c14273fec1f4abc75a83389b80d
