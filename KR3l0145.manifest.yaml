@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0145/v1
 canonical_location: https://kanripo.org/bkk/KR3l0145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 泰嶽府君記
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0145_001.yaml, hash: 'sha256:f23db52f4f643e10bf9da617df4e47fdba5577286d1ca55a062614ad1ff5e866'}
+  - {seq: 1, filename: KR3l0145_001.yaml, hash: 'sha256:363f283ffd34fd84f4b944104b701afbd1a44fa59493a679bb9cc3b15f2fab6d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0145_001.markers.yaml, hash: 'sha256:8c17074e5c6d492e3e7f05758f3978731274a1a8588099002e664fa99085fc8f'}
+  - {seq: 1, role: markers, filename: assets/KR3l0145_001.markers.yaml, hash: 'sha256:0459ef86a138ef7f67a0fba285b07e604ceefa2566309d0e0aec840b8fddf1a0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 泰嶽府君記
   type: section
   level: 1
-hash: sha256:ac075e9060b546c7a376addcf2bc7370c6e89c14273fec1f4abc75a83389b80d
+hash: sha256:691fd78801797ae26ea24c372277be93c4e0648f4af9e3e5e62756bf9a46cbb2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
